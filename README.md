@@ -27,7 +27,6 @@ Os cenários foram escritos em **Gherkin**, promovendo uma comunicação clara e
 - ☕ **Java 21**
 - 🧩 **Cucumber**
 - 🌐 **Selenium WebDriver**
-- 🧱 **JUnit** (ou TestNG, conforme configuração)
 - 🧭 **Maven**
 - 🧾 **Gherkin (Given/When/Then)**
 
