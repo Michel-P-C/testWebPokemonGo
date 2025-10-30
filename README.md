@@ -23,6 +23,13 @@ Os cenários foram escritos em **Gherkin**, promovendo uma comunicação clara e
 ---
 
 ## ⚙️ Tecnologias Utilizadas
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gherkin-5B9BD5?style=for-the-badge"/>
+</p>
 
 - ☕ **Java 21**
 - 🧩 **Cucumber**
